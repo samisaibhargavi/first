@@ -1,3 +1,4 @@
+import os
 def linear_Search(list1, n, key):  
   
     # Searching list1 sequentially  
